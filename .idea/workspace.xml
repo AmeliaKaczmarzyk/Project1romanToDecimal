@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Added bonus method and docs">
+    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Comments">
+      <change afterPath="$PROJECT_DIR$/src/RomanToDecimalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToDecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     <configuration name="RomanToDecimal" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RomanToDecimal" />
       <module name="Project 1 - RomanToDecimal" />
-      <option name="PROGRAM_PARAMETERS" value="I i II ii III iii IV iv V v VI vi VII vii VIII viii IX ix X x XI xi XIV xiv XV xv XIX xix XXIX xxix XXXIV xxxiv XLIX xlix LXXXIV lxxxiv XCIV xciv XCIX xcix CCCXCIV cccxciv CDXCIV cdxciv CMXCIV cmxciv MCMLXII mcmlxii MMCDIX mmcdix MMCDXCIV mmcdxciv CMXCIV cmxciv CMXCIV cmxciv MMCMXCIX mmcmxcix MMMMCMXCIX mmmmcmxcix IIVI iivi IIIVII iiivii IIIXVIII iiixviii IXIXIX ixixix IVIXXLXCCDCM ivixxlxccdcm XXXXXXXXXX xxxxxxxxxx LXCID lxcid XMXVIVIIIIV xmxviviiiiv MXMXVIVIXII mxmxvivixii MXMXVIVIXIIVIII mxmxvivixiiviii MMCCCDLXIIIVIX mmcccdlxiiivix MMMCMCMCDIIIX mmmcmcmcdiiix MMMMMCDCDCD mmmmmcdcdcd I_am_Batman ISIS_is_not_a_valid_Roman_numeral MMMMMGood mmmmmgood MMCMLXIJMMCD mmcmlxijmmcd LXHID lxhid IVXLCDME ivxlcdme SWEET_BRUH sweet_bruh    " />
+      <option name="PROGRAM_PARAMETERS" value="IXMCMMI  " />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,7 +82,7 @@
       <workItem from="1665144942553" duration="759000" />
       <workItem from="1665153304572" duration="3051000" />
       <workItem from="1665404644056" duration="1310000" />
-      <workItem from="1665406000533" duration="3127000" />
+      <workItem from="1665406000533" duration="4590000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;+">
       <created>1665153495170</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665413066377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Comments">
+      <created>1665413832776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413832776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +140,7 @@
     <MESSAGE value="&#10;+" />
     <MESSAGE value="Made variable names tolerable" />
     <MESSAGE value="Added bonus method and docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bonus method and docs" />
+    <MESSAGE value="Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments" />
   </component>
 </project>

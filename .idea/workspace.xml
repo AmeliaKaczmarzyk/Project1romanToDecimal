@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Made variable names tolerable">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToDecimal.java" afterDir="false" />
-    </list>
+    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Added bonus method and docs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1665144942553" duration="759000" />
       <workItem from="1665153304572" duration="3051000" />
       <workItem from="1665404644056" duration="1310000" />
-      <workItem from="1665406000533" duration="2313000" />
+      <workItem from="1665406000533" duration="2366000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;+">
       <created>1665153495170</created>
@@ -98,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665405252354</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added bonus method and docs">
+      <created>1665408345914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408345914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&#10;+" />
     <MESSAGE value="Made variable names tolerable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made variable names tolerable" />
+    <MESSAGE value="Added bonus method and docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bonus method and docs" />
   </component>
 </project>

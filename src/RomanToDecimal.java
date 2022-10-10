@@ -23,7 +23,9 @@ public class RomanToDecimal {
         int runningSum = 0;
         int currentNumber;
         int previousNumber = 0;
+        //convert all input to UPPERCASE
         roman = roman.toUpperCase();
+        //iterate through each character in the string
         for (int i = 0; i < roman.length(); i++) {
             char temp = roman.charAt(i);
             if (temp == 'I') {
@@ -42,9 +44,11 @@ public class RomanToDecimal {
                 currentNumber = 1000;
             }
             else{
+                //return -1 if the character isn't any of these valid numerals (invalid)
                 return -1;
             }
             if (currentNumber > previousNumber){
+                //if the previous number is smaller than the current number, subtract two previous numbers
                 runningSum += currentNumber;
                 runningSum = runningSum - 2 * previousNumber;
             }

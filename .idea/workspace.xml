@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Even more comments">
+    <list default="true" id="33491da6-ee45-4036-81e9-6a7aecf5f771" name="Changes" comment="Junit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project 1 - RomanToDecimal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project 1 - RomanToDecimal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToDecimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RomanToDecimalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -63,10 +61,11 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.RomanToDecimalTest.romanToDecimal">
     <configuration name="APCompSciKidExample" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="APCompSciKidExample" />
       <module name="Project 1 - RomanToDecimal" />
+      <option name="PROGRAM_PARAMETERS" value="VIII  XxXI  XXIX  IXixIX  ixIVIVIX  CI  DI  MI  Mr.Cochran  Bruhifyouragirlyouhavenorighttocomplainaboutbeing”ugly”  IIC  IID  IIIM  APCOMPSCI  128   " />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,15 +73,31 @@
     <configuration name="RomanToDecimal" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RomanToDecimal" />
       <module name="Project 1 - RomanToDecimal" />
-      <option name="PROGRAM_PARAMETERS" value="I i II ii III iii IV iv V v VI vi VII vii VIII viii IX ix X x XI xi XIV xiv XV xv XIX xix XXIX xxix XXXIV xxxiv XLIX xlix LXXXIV lxxxiv XCIV xciv XCIX xcix CCCXCIV cccxciv CDXCIV cdxciv CMXCIV cmxciv MCMLXII mcmlxii MMCDIX mmcdix MMCDXCIV mmcdxciv CMXCIV cmxciv CMXCIV cmxciv MMCMXCIX mmcmxcix MMMMCMXCIX mmmmcmxcix IIVI iivi IIIVII iiivii IIIXVIII iiixviii IXIXIX ixixix IVIXXLXCCDCM ivixxlxccdcm XXXXXXXXXX xxxxxxxxxx LXCID lxcid XMXVIVIIIIV xmxviviiiiv MXMXVIVIXII mxmxvivixii MXMXVIVIXIIVIII mxmxvivixiiviii MMCCCDLXIIIVIX mmcccdlxiiivix MMMCMCMCDIIIX mmmcmcmcdiiix MMMMMCDCDCD mmmmmcdcdcd I_am_Batman ISIS_is_not_a_valid_Roman_numeral MMMMMGood mmmmmgood MMCMLXIJMMCD mmcmlxijmmcd LXHID lxhid IVXLCDME ivxlcdme SWEET_BRUH sweet_bruh          " />
+      <option name="PROGRAM_PARAMETERS" value="XVIIIMXIVIIVMMMXXXIIIVimxxxvixidddmxxixidmmdmmxxidididvvidmxidviixvid  " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToDecimalTest.romanToDecimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project 1 - RomanToDecimal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanToDecimalTest" />
+      <option name="METHOD_NAME" value="romanToDecimal" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.APCompSciKidExample" />
       <item itemvalue="Application.RomanToDecimal" />
+      <item itemvalue="Application.APCompSciKidExample" />
+      <item itemvalue="JUnit.RomanToDecimalTest.romanToDecimal" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanToDecimalTest.romanToDecimal" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,7 +116,12 @@
       <workItem from="1665404644056" duration="1310000" />
       <workItem from="1665406000533" duration="5554000" />
       <workItem from="1665431600824" duration="14000" />
-      <workItem from="1665490470092" duration="3881000" />
+      <workItem from="1665490470092" duration="6380000" />
+      <workItem from="1665581171939" duration="1133000" />
+      <workItem from="1665664337061" duration="4486000" />
+      <workItem from="1666010352838" duration="348000" />
+      <workItem from="1666112755305" duration="113000" />
+      <workItem from="1666117390259" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;+">
       <created>1665153495170</created>
@@ -145,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665415113765</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Junit test">
+      <created>1665494922257</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665494922257</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +195,8 @@
     <MESSAGE value="Added bonus method and docs" />
     <MESSAGE value="Comments" />
     <MESSAGE value="Even more comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even more comments" />
+    <MESSAGE value="Junit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Junit test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Project_1___RomanToDecimal$RomanToDecimal.ic" NAME="RomanToDecimal Coverage Results" MODIFIED="1665492782709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
